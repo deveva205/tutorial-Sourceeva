@@ -1,4 +1,4 @@
-Command In Bot
+Bot In Command
 ====================
 
 .. note::
