@@ -8,7 +8,7 @@ Welcome to Source Eva documentation!
 
 .. note::
 
-   هذا الموقع تابع لقناه سورس ايفا @SOURCEEVA .
+   هذا الموقع تابع لقناه سورس ايفا [@SOURCEEVA](https://t.me/sourceeva) .
 
 Contents
 --------
