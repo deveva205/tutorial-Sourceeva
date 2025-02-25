@@ -6,8 +6,8 @@ project = 'Source Eva'
 copyright = '2024, Source Eva'
 author = 'Source Eva'
 
-release = '0.1'
-version = '0.0.1'
+release = '0.2'
+version = '0.0.2'
 
 # -- General configuration
 
