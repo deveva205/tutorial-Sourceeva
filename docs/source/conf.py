@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'YTeva'
-copyright = '2024, SourceEva'
+project = 'Source Eva'
+copyright = '2024, Source Eva'
 author = 'Source Eva'
 
-release = '0.2'
-version = '0.0.3'
+release = '0.1'
+version = '0.0.1'
 
 # -- General configuration
 
