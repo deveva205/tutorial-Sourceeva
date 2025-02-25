@@ -1,9 +1,9 @@
-Usage
-=====
+Command In Bot
+====================
 
 .. _installation:
 
-Installation
+الاوامر
 ------------
 
 
