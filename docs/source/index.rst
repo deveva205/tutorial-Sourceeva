@@ -4,12 +4,11 @@ Welcome to Source Eva documentation!
 **سورس ايفا**  
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+ستجد هنا كل ما يخص معلومات السورس من الاضافات  والتغييرات
 
 .. note::
 
-   This project is under active development.
+   هذا الموقع تابع لقناه سورس ايفا @SOURCEEVA .
 
 Contents
 --------
