@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   الاضافات
-   حول
+   usage
+   about
