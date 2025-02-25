@@ -18,5 +18,5 @@ Contents
 
    index
    usage
-   about
    Changelog
+   about
