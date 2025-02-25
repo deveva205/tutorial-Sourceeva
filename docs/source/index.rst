@@ -13,7 +13,7 @@ Contents
 
 .. toctree::
 
-   homepage
+   index
    botcommands
    Changelog
    about
