@@ -14,6 +14,6 @@ Contents
 .. toctree::
 
    homepage
-   command
+   commands
    Changelog
    about
