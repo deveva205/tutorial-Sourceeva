@@ -13,7 +13,7 @@ Contents
 
 .. toctree::
 
-   index
-   usage
+   homepage
+   command
    Changelog
    about
