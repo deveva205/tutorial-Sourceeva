@@ -14,6 +14,6 @@ Contents
 .. toctree::
 
    homepage
-   commands
+   botcommands
    Changelog
    about
